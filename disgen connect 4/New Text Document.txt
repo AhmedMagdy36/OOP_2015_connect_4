@@ -1,0 +1,107 @@
+
+            if (column1_count == 1)
+            {
+
+                if (player == 1)
+                {
+                    this.pic_c1_1.Image = new Bitmap("red.bmp");
+                }
+
+                else
+                {
+                    this.pic_c1_1.Image = new Bitmap("yellow.bmp");
+                }
+
+            }
+
+
+            else if(column1_count==2)
+            {
+
+
+                if (player == 1)
+                {
+                    this.pic_c1_2.Image = new Bitmap("red.bmp");
+                }
+
+                else
+                {
+                    this.pic_c1_2.Image = new Bitmap("yellow.bmp");
+                }
+
+
+            }
+
+
+            else if (column1_count == 3)
+            {
+
+
+                if (player == 1)
+                {
+                    this.pic_c1_3.Image = new Bitmap("red.bmp");
+                }
+
+                else
+                {
+                    this.pic_c1_3.Image = new Bitmap("yellow.bmp");
+                }
+
+
+            }
+
+
+
+            else if (column1_count == 4)
+            {
+
+
+                if (player == 1)
+                {
+                    this.pic_c1_4.Image = new Bitmap("red.bmp");
+                }
+
+                else
+                {
+                    this.pic_c1_4.Image = new Bitmap("yellow.bmp");
+                }
+
+
+            }
+
+
+
+            else if (column1_count == 5)
+            {
+
+
+                if (player == 1)
+                {
+                    this.pic_c1_5.Image = new Bitmap("red.bmp");
+                }
+
+                else
+                {
+                    this.pic_c1_5.Image = new Bitmap("yellow.bmp");
+                }
+
+
+            }
+
+
+            else if (column1_count == 6)
+            {
+
+
+                if (player == 1)
+                {
+                    this.pic_c1_6.Image = new Bitmap("red.bmp");
+                }
+
+                else
+                {
+                    this.pic_c1_6.Image = new Bitmap("yellow.bmp");
+                }
+
+
+            }
